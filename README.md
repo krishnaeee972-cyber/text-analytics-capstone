@@ -36,10 +36,10 @@ Public transport services today suffer from four systemic failures, leading to *
 
 ---
 
-### **5.1 Lost Time Cost Metric (Severe Delay Minutes)**
+   **5.1 Lost Time Cost Metric (Severe Delay Minutes)**
 
-Severe delays directly increase fuel consumption and driver labor costs.  
-This analysis identifies the **Route–Hour combinations** that contribute the most to *operational losses*.
+   Severe delays directly increase fuel consumption and driver labor costs.  
+   This analysis identifies the **Route–Hour combinations** that contribute the most to *operational losses*.
 
 #### **Key Logic**
 
