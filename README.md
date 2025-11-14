@@ -29,10 +29,10 @@ Public transport services today suffer from four systemic failures, leading to *
 4. **Unnoticed Complaints**  
    Unstructured feedback (social media, forms) rarely drives operational change.
 
-## 5. Use Case: Checking Financial Feasibility
+5. **Use Case: Checking Financial Feasibility**
 
-This use case quantifies **the monetary impact of delays and underutilized buses**, helping transport authorities understand where fuel, labor, and operational resources are being wasted.  
-It focuses on two core metrics:
+   This use case quantifies **the monetary impact of delays and underutilized buses**, helping transport authorities understand where fuel, labor, and operational resources are being wasted.  
+   It focuses on two core metrics:
 
 ---
 
