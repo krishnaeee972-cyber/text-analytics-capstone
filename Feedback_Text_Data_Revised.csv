@@ -1,0 +1,501 @@
+Feedback_ID,Complaint_Time_Approx,Text_Content,Simulated_NER_Bus_ID
+900000,13-11-2025 18:59,Bus KA-01-AB-0101 is took forever by 35 mins near Koramangala. The schedule is a joke.,KA-01-AB-0101
+900001,13-11-2025 09:26,Excellent journey on Route R12B this morning. Everything was on time.,
+900002,13-11-2025 10:38,Excellent journey on Route R5A this morning. Everything was great service.,KA-01-AB-0101
+900003,13-11-2025 13:17,Bus KA-01-AB-0102 is off schedule by 22 mins near Whitefield. The schedule is a joke.,KA-01-AB-0102
+900004,13-11-2025 14:04,Bus KA-01-AB-0101 is took forever by 37 mins near Whitefield. The schedule is a joke.,KA-01-AB-0101
+900005,13-11-2025 13:54,Route R7C is running behind by 33 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0104
+900006,13-11-2025 11:19,Seriously sardine can from Silk_Board. Trip on R5A should not let in so many passengers.,KA-01-AB-0102
+900007,13-11-2025 11:47,Seriously packed from Whitefield. Trip on R12B should not let in so many passengers.,
+900008,13-11-2025 16:51,Checked the app 3 times. Still no real-time update for Route R5A. Makes the whole system unreliable.,KA-01-AB-0101
+900009,13-11-2025 11:09,Seriously full from MG_Road. Trip on R12B should not let in so many passengers.,
+900010,13-11-2025 12:31,Checked the app 3 times. Still tracker broken for Bus KA-01-AB-0104. Makes the whole system unreliable.,
+900011,13-11-2025 10:22,Bus KA-01-AB-0101 is late by 17 mins near Shivaji_Nagar. The schedule is a joke. \#Traffic,KA-01-AB-0101
+900012,13-11-2025 17:23,Checked the app 3 times. Still app not working for Route R5A. Makes the whole system unreliable.,
+900013,13-11-2025 14:01,Trip on R7C is running behind by 30 mins near Whitefield. The schedule is a joke.,KA-01-AB-0105
+900014,13-11-2025 15:17,The no fan is disgusting. Bus KA-01-AB-0105 needs maintenance asap.,KA-01-AB-0105
+900015,13-11-2025 12:58,Driver of KA-01-AB-0102 was not helpful when asked for the stop. Unprofessional behavior.,KA-01-AB-0102
+900016,13-11-2025 14:00,Bus KA-01-AB-0101 is late by 43 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0101
+900017,13-11-2025 14:00,Checked the app 3 times. Still no real-time update for Trip on R12B. Makes the whole system unreliable.,KA-01-AB-0105
+900018,13-11-2025 12:30,Seriously overcrowded from Koramangala. Route R7C should not let in so many passengers.,KA-01-AB-0101
+900019,13-11-2025 10:45,Driver of KA-01-AB-0104 was rude when asked for the stop. Unprofessional behavior.,
+900020,13-11-2025 10:29,Route R7C is running behind by 22 mins near MG_Road. The schedule is a joke.,KA-01-AB-0105
+900021,13-11-2025 09:10,Excellent journey on Bus KA-01-AB-0105 this morning. Everything was clean.,KA-01-AB-0105
+900022,13-11-2025 09:40,Seriously packed from Silk_Board. Route R5A should not let in so many passengers.,KA-01-AB-0101
+900023,13-11-2025 14:39,The no fan is disgusting. Bus KA-01-AB-0104 needs maintenance asap.,KA-01-AB-0104
+900024,13-11-2025 16:12,Excellent journey on Route R5A this morning. Everything was comfortable. \#Traffic,KA-01-AB-0104
+900025,13-11-2025 08:09,Bus KA-01-AB-0105 is late by 18 mins near Koramangala. The schedule is a joke. \#Traffic,KA-01-AB-0105
+900026,13-11-2025 10:04,Driver of KA-01-AB-0105 was skipping stops when asked for the stop. Unprofessional behavior.,KA-01-AB-0105
+900027,13-11-2025 18:47,Seriously no space to move from Shivaji_Nagar. Route R5A should not let in so many passengers.,
+900028,13-11-2025 13:50,Excellent journey on Trip on R12B this morning. Everything was clean.,KA-01-AB-0105
+900029,13-11-2025 16:47,Driver of KA-01-AB-0102 was aggressive when asked for the stop. Unprofessional behavior. \@Official,KA-01-AB-0102
+900030,13-11-2025 13:10,Seriously packed from MG_Road. Bus KA-01-AB-0102 should not let in so many passengers. \#Traffic,KA-01-AB-0102
+900031,13-11-2025 15:20,Excellent journey on Route R7C this morning. Everything was clean.,KA-01-AB-0102
+900032,13-11-2025 16:40,Seriously packed from Silk_Board. Bus KA-01-AB-0102 should not let in so many passengers.,
+900033,13-11-2025 07:29,Route R5A is off schedule by 31 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0102
+900034,13-11-2025 07:52,Checked the app 3 times. Still no information for Route R5A. Makes the whole system unreliable.,KA-01-AB-0103
+900035,13-11-2025 17:36,Bus KA-01-AB-0102 is late by 14 mins near Marathahalli. The schedule is a joke. \@Official,KA-01-AB-0102
+900036,13-11-2025 13:09,Driver of KA-01-AB-0103 was rude when asked for the stop. Unprofessional behavior.,KA-01-AB-0103
+900037,13-11-2025 17:52,Checked the app 3 times. Still tracker broken for Trip on R7C. Makes the whole system unreliable.,
+900038,13-11-2025 09:34,Bus KA-01-AB-0105 is running behind by 40 mins near Shivaji_Nagar. The schedule is a joke.,
+900039,13-11-2025 07:58,Route R12B is late by 30 mins near MG_Road. The schedule is a joke.,KA-01-AB-0101
+900040,13-11-2025 18:10,Seriously no space to move from Whitefield. Trip on R12B should not let in so many passengers.,KA-01-AB-0101
+900041,13-11-2025 10:00,Checked the app 3 times. Still no real-time update for Route R5A. Makes the whole system unreliable.,KA-01-AB-0102
+900042,13-11-2025 12:35,Seriously full from Whitefield. Route R5A should not let in so many passengers.,KA-01-AB-0102
+900043,13-11-2025 11:57,Excellent journey on Bus KA-01-AB-0105 this morning. Everything was comfortable.,KA-01-AB-0105
+900044,13-11-2025 07:46,Seriously overcrowded from Shivaji_Nagar. Trip on R12B should not let in so many passengers.,KA-01-AB-0103
+900045,13-11-2025 09:52,Trip on R7C is delayed by 24 mins near Whitefield. The schedule is a joke.,KA-01-AB-0103
+900046,13-11-2025 13:22,Checked the app 3 times. Still tracker broken for Bus KA-01-AB-0102. Makes the whole system unreliable. daily struggle,KA-01-AB-0102
+900047,13-11-2025 16:22,Seriously sardine can from Marathahalli. Trip on R12B should not let in so many passengers.,KA-01-AB-0104
+900048,13-11-2025 12:41,Trip on R7C is delayed by 33 mins near Whitefield. The schedule is a joke.,
+900049,13-11-2025 12:22,Seriously full from Silk_Board. Route R12B should not let in so many passengers.,KA-01-AB-0103
+900050,13-11-2025 07:47,Seriously full from Whitefield. Bus KA-01-AB-0103 should not let in so many passengers.,KA-01-AB-0103
+900051,13-11-2025 18:15,Driver of KA-01-AB-0102 was not helpful when asked for the stop. Unprofessional behavior. \#Traffic,KA-01-AB-0102
+900052,13-11-2025 12:36,Seriously sardine can from Koramangala. Bus KA-01-AB-0101 should not let in so many passengers.,KA-01-AB-0101
+900053,13-11-2025 09:28,Seriously no space to move from Silk_Board. Route R5A should not let in so many passengers.,KA-01-AB-0104
+900054,13-11-2025 10:26,Checked the app 3 times. Still no real-time update for Route R12B. Makes the whole system unreliable.,
+900055,13-11-2025 12:41,Driver of KA-01-AB-0104 was aggressive when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900056,13-11-2025 17:00,Checked the app 3 times. Still no real-time update for Trip on R7C. Makes the whole system unreliable.,KA-01-AB-0104
+900057,13-11-2025 10:11,Route R5A is late by 28 mins near MG_Road. The schedule is a joke.,KA-01-AB-0104
+900058,13-11-2025 07:48,The leaking roof is disgusting. Bus KA-01-AB-0103 needs maintenance asap. pls respond,KA-01-AB-0103
+900059,13-11-2025 10:46,Excellent journey on Trip on R5A this morning. Everything was comfortable.,
+900060,13-11-2025 12:59,Trip on R7C is off schedule by 31 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0104
+900061,13-11-2025 07:24,Seriously no space to move from MG_Road. Trip on R5A should not let in so many passengers. \#Traffic,
+900062,13-11-2025 18:54,Route R5A is late by 11 mins near Koramangala. The schedule is a joke. \@Official,
+900063,13-11-2025 07:26,Trip on R7C is delayed by 26 mins near Shivaji_Nagar. The schedule is a joke.,
+900064,13-11-2025 09:01,Seriously sardine can from Shivaji_Nagar. Bus KA-01-AB-0104 should not let in so many passengers.,KA-01-AB-0104
+900065,13-11-2025 11:34,Route R12B is late by 15 mins near Shivaji_Nagar. The schedule is a joke. pls respond,KA-01-AB-0104
+900066,13-11-2025 13:18,Driver of KA-01-AB-0104 was skipping stops when asked for the stop. Unprofessional behavior. \@Official,KA-01-AB-0104
+900067,13-11-2025 17:20,Bus KA-01-AB-0104 is off schedule by 21 mins near Whitefield. The schedule is a joke.,KA-01-AB-0104
+900068,13-11-2025 18:24,Seriously overcrowded from Marathahalli. Bus KA-01-AB-0102 should not let in so many passengers.,
+900069,13-11-2025 11:26,Driver of KA-01-AB-0103 was aggressive when asked for the stop. Unprofessional behavior.,KA-01-AB-0103
+900070,13-11-2025 14:15,Trip on R5A is late by 30 mins near Marathahalli. The schedule is a joke. pls respond,KA-01-AB-0105
+900071,13-11-2025 17:32,Driver of KA-01-AB-0104 was not helpful when asked for the stop. Unprofessional behavior. pls respond,KA-01-AB-0104
+900072,13-11-2025 12:08,Excellent journey on Route R7C this morning. Everything was comfortable.,KA-01-AB-0105
+900073,13-11-2025 13:51,Driver of KA-01-AB-0101 was not helpful when asked for the stop. Unprofessional behavior.,
+900074,13-11-2025 13:04,Driver of KA-01-AB-0104 was rude when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900075,13-11-2025 13:39,Driver of KA-01-AB-0103 was rude when asked for the stop. Unprofessional behavior.,KA-01-AB-0103
+900076,13-11-2025 16:06,Driver of KA-01-AB-0102 was not helpful when asked for the stop. Unprofessional behavior.,KA-01-AB-0102
+900077,13-11-2025 10:51,Driver of KA-01-AB-0104 was not helpful when asked for the stop. Unprofessional behavior. \#Traffic,KA-01-AB-0104
+900078,13-11-2025 07:41,Seriously no space to move from Koramangala. Bus KA-01-AB-0102 should not let in so many passengers. pls respond,KA-01-AB-0102
+900079,13-11-2025 17:09,Route R5A is took forever by 42 mins near MG_Road. The schedule is a joke.,KA-01-AB-0101
+900080,13-11-2025 09:42,Seriously no space to move from Whitefield. Trip on R5A should not let in so many passengers. \@Official,KA-01-AB-0101
+900081,13-11-2025 16:30,Driver of KA-01-AB-0101 was aggressive when asked for the stop. Unprofessional behavior.,KA-01-AB-0101
+900082,13-11-2025 15:26,Excellent journey on Bus KA-01-AB-0105 this morning. Everything was comfortable.,KA-01-AB-0105
+900083,13-11-2025 16:02,Excellent journey on Route R12B this morning. Everything was comfortable.,
+900084,13-11-2025 13:30,Driver of KA-01-AB-0105 was skipping stops when asked for the stop. Unprofessional behavior.,KA-01-AB-0105
+900085,13-11-2025 07:48,Seriously packed from Silk_Board. Trip on R7C should not let in so many passengers. daily struggle,KA-01-AB-0102
+900086,13-11-2025 17:11,Driver of KA-01-AB-0101 was unprofessional when asked for the stop. Unprofessional behavior.,
+900087,13-11-2025 10:04,Driver of KA-01-AB-0104 was aggressive when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900088,13-11-2025 13:54,Checked the app 3 times. Still tracker broken for Bus KA-01-AB-0105. Makes the whole system unreliable. pls respond,KA-01-AB-0105
+900089,13-11-2025 14:43,Seriously packed from Koramangala. Route R12B should not let in so many passengers.,KA-01-AB-0104
+900090,13-11-2025 07:44,Bus KA-01-AB-0103 is took forever by 27 mins near Koramangala. The schedule is a joke.,KA-01-AB-0103
+900091,13-11-2025 17:05,The dirty floor is disgusting. Bus KA-01-AB-0102 needs maintenance asap.,KA-01-AB-0102
+900092,13-11-2025 12:47,Driver of KA-01-AB-0101 was rude when asked for the stop. Unprofessional behavior.,KA-01-AB-0101
+900093,13-11-2025 12:22,Bus KA-01-AB-0104 is late by 25 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0104
+900094,13-11-2025 12:41,Checked the app 3 times. Still no information for Trip on R12B. Makes the whole system unreliable. \#Traffic,KA-01-AB-0102
+900095,13-11-2025 07:54,Excellent journey on Route R12B this morning. Everything was clean.,KA-01-AB-0103
+900096,13-11-2025 11:15,Driver of KA-01-AB-0102 was skipping stops when asked for the stop. Unprofessional behavior. daily struggle,KA-01-AB-0102
+900097,13-11-2025 12:21,Bus KA-01-AB-0101 is late by 43 mins near Whitefield. The schedule is a joke.,KA-01-AB-0101
+900098,13-11-2025 14:40,Seriously sardine can from Silk_Board. Trip on R12B should not let in so many passengers.,
+900099,13-11-2025 07:17,Seriously full from Whitefield. Route R7C should not let in so many passengers.,
+900100,13-11-2025 15:54,Checked the app 3 times. Still app not working for Trip on R12B. Makes the whole system unreliable. \@Official,KA-01-AB-0103
+900101,13-11-2025 11:35,Seriously no space to move from Koramangala. Route R7C should not let in so many passengers.,KA-01-AB-0102
+900102,13-11-2025 08:18,Route R12B is took forever by 30 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0104
+900103,13-11-2025 14:40,Checked the app 3 times. Still app not working for Bus KA-01-AB-0102. Makes the whole system unreliable.,KA-01-AB-0102
+900104,13-11-2025 11:02,Excellent journey on Bus KA-01-AB-0101 this morning. Everything was clean.,
+900105,13-11-2025 09:41,Seriously no space to move from Whitefield. Trip on R7C should not let in so many passengers.,KA-01-AB-0105
+900106,13-11-2025 15:26,Checked the app 3 times. Still no information for Route R7C. Makes the whole system unreliable.,KA-01-AB-0104
+900107,13-11-2025 08:18,Trip on R12B is off schedule by 22 mins near Silk_Board. The schedule is a joke. \#Traffic,KA-01-AB-0102
+900108,13-11-2025 12:21,Bus KA-01-AB-0105 is late by 37 mins near Whitefield. The schedule is a joke.,
+900109,13-11-2025 09:47,Checked the app 3 times. Still no information for Route R7C. Makes the whole system unreliable.,KA-01-AB-0101
+900110,13-11-2025 17:58,Seriously overcrowded from Shivaji_Nagar. Route R12B should not let in so many passengers. daily struggle,
+900111,13-11-2025 17:50,Driver of KA-01-AB-0103 was aggressive when asked for the stop. Unprofessional behavior.,KA-01-AB-0103
+900112,13-11-2025 07:46,Driver of KA-01-AB-0101 was rude when asked for the stop. Unprofessional behavior. \#Traffic,KA-01-AB-0101
+900113,13-11-2025 07:55,Checked the app 3 times. Still no ETA for Route R7C. Makes the whole system unreliable.,KA-01-AB-0102
+900114,13-11-2025 10:26,Driver of KA-01-AB-0101 was unprofessional when asked for the stop. Unprofessional behavior.,
+900115,13-11-2025 15:53,Driver of KA-01-AB-0102 was rude when asked for the stop. Unprofessional behavior. \@Official,
+900116,13-11-2025 07:30,Checked the app 3 times. Still no real-time update for Route R12B. Makes the whole system unreliable. \#Traffic,KA-01-AB-0104
+900117,13-11-2025 17:35,Bus KA-01-AB-0104 is delayed by 30 mins near MG_Road. The schedule is a joke.,KA-01-AB-0104
+900118,13-11-2025 17:37,Checked the app 3 times. Still tracker broken for Bus KA-01-AB-0101. Makes the whole system unreliable. pls respond,KA-01-AB-0101
+900119,13-11-2025 17:00,Checked the app 3 times. Still no ETA for Trip on R12B. Makes the whole system unreliable.,KA-01-AB-0104
+900120,13-11-2025 14:53,Seriously overcrowded from Shivaji_Nagar. Bus KA-01-AB-0102 should not let in so many passengers.,KA-01-AB-0102
+900121,13-11-2025 13:43,Route R5A is running behind by 28 mins near Koramangala. The schedule is a joke.,KA-01-AB-0104
+900122,13-11-2025 15:27,Excellent journey on Bus KA-01-AB-0103 this morning. Everything was on time. daily struggle,
+900123,13-11-2025 13:40,Excellent journey on Route R7C this morning. Everything was clean.,KA-01-AB-0101
+900124,13-11-2025 13:28,The leaking roof is disgusting. Bus KA-01-AB-0102 needs maintenance asap.,KA-01-AB-0102
+900125,13-11-2025 13:30,Driver of KA-01-AB-0104 was rude when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900126,13-11-2025 18:40,Seriously sardine can from Silk_Board. Bus KA-01-AB-0102 should not let in so many passengers.,
+900127,13-11-2025 11:12,Seriously overcrowded from Koramangala. Route R7C should not let in so many passengers.,KA-01-AB-0102
+900128,13-11-2025 13:58,Bus KA-01-AB-0103 is late by 43 mins near Shivaji_Nagar. The schedule is a joke.,KA-01-AB-0103
+900129,13-11-2025 14:29,Seriously sardine can from Shivaji_Nagar. Route R5A should not let in so many passengers.,KA-01-AB-0101
+900130,13-11-2025 16:17,Trip on R5A is late by 18 mins near Shivaji_Nagar. The schedule is a joke.,
+900131,13-11-2025 15:59,Excellent journey on Route R5A this morning. Everything was clean.,
+900132,13-11-2025 09:07,Seriously no space to move from Shivaji_Nagar. Route R7C should not let in so many passengers.,KA-01-AB-0105
+900133,13-11-2025 12:58,Route R7C is took forever by 37 mins near Koramangala. The schedule is a joke.,KA-01-AB-0104
+900134,13-11-2025 18:42,Checked the app 3 times. Still app not working for Trip on R12B. Makes the whole system unreliable.,KA-01-AB-0103
+900135,13-11-2025 16:32,Seriously packed from Shivaji_Nagar. Trip on R5A should not let in so many passengers. pls respond,KA-01-AB-0102
+900136,13-11-2025 11:59,Seriously packed from Shivaji_Nagar. Trip on R12B should not let in so many passengers.,
+900137,13-11-2025 09:05,Seriously packed from Shivaji_Nagar. Bus KA-01-AB-0104 should not let in so many passengers.,KA-01-AB-0104
+900138,13-11-2025 11:39,Driver of KA-01-AB-0102 was skipping stops when asked for the stop. Unprofessional behavior.,
+900139,13-11-2025 11:06,Excellent journey on Route R12B this morning. Everything was courteous. daily struggle,KA-01-AB-0103
+900140,13-11-2025 18:36,Trip on R5A is off schedule by 18 mins near Shivaji_Nagar. The schedule is a joke. \#Traffic,KA-01-AB-0102
+900141,13-11-2025 16:11,Bus KA-01-AB-0105 is delayed by 35 mins near Shivaji_Nagar. The schedule is a joke.,KA-01-AB-0105
+900142,13-11-2025 09:44,Checked the app 3 times. Still no ETA for Route R12B. Makes the whole system unreliable. \@Official,
+900143,13-11-2025 16:32,Bus KA-01-AB-0101 is running behind by 37 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0101
+900144,13-11-2025 12:57,Checked the app 3 times. Still no real-time update for Bus KA-01-AB-0105. Makes the whole system unreliable.,KA-01-AB-0105
+900145,13-11-2025 15:17,Seriously full from Koramangala. Route R5A should not let in so many passengers.,KA-01-AB-0102
+900146,13-11-2025 17:41,Route R7C is delayed by 37 mins near Shivaji_Nagar. The schedule is a joke.,KA-01-AB-0105
+900147,13-11-2025 15:12,Driver of KA-01-AB-0102 was rude when asked for the stop. Unprofessional behavior.,KA-01-AB-0102
+900148,13-11-2025 15:17,Excellent journey on Route R5A this morning. Everything was clean.,KA-01-AB-0105
+900149,13-11-2025 11:44,Excellent journey on Route R12B this morning. Everything was on time.,
+900150,13-11-2025 15:33,Trip on R5A is took forever by 12 mins near MG_Road. The schedule is a joke.,KA-01-AB-0102
+900151,13-11-2025 11:00,Excellent journey on Bus KA-01-AB-0102 this morning. Everything was courteous.,KA-01-AB-0102
+900152,13-11-2025 09:04,Checked the app 3 times. Still no information for Trip on R5A. Makes the whole system unreliable.,
+900153,13-11-2025 18:06,Checked the app 3 times. Still app not working for Trip on R7C. Makes the whole system unreliable.,KA-01-AB-0101
+900154,13-11-2025 15:47,Seriously packed from Silk_Board. Trip on R7C should not let in so many passengers. pls respond,KA-01-AB-0102
+900155,13-11-2025 17:25,Route R5A is off schedule by 38 mins near Koramangala. The schedule is a joke.,KA-01-AB-0101
+900156,13-11-2025 09:01,Seriously sardine can from Whitefield. Route R12B should not let in so many passengers.,
+900157,13-11-2025 08:27,Trip on R7C is off schedule by 28 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0102
+900158,13-11-2025 17:23,Driver of KA-01-AB-0101 was rude when asked for the stop. Unprofessional behavior.,
+900159,13-11-2025 08:59,Seriously packed from Whitefield. Bus KA-01-AB-0103 should not let in so many passengers.,KA-01-AB-0103
+900160,13-11-2025 16:15,Bus KA-01-AB-0103 is running behind by 22 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0103
+900161,13-11-2025 08:26,Seriously no space to move from Silk_Board. Trip on R12B should not let in so many passengers.,KA-01-AB-0103
+900162,13-11-2025 10:07,Seriously no space to move from Marathahalli. Route R7C should not let in so many passengers.,KA-01-AB-0101
+900163,13-11-2025 09:27,Excellent journey on Bus KA-01-AB-0101 this morning. Everything was great service.,KA-01-AB-0101
+900164,13-11-2025 15:43,Checked the app 3 times. Still app not working for Bus KA-01-AB-0101. Makes the whole system unreliable.,KA-01-AB-0101
+900165,13-11-2025 07:54,Driver of KA-01-AB-0104 was aggressive when asked for the stop. Unprofessional behavior.,
+900166,13-11-2025 17:23,Seriously overcrowded from Shivaji_Nagar. Bus KA-01-AB-0103 should not let in so many passengers.,
+900167,13-11-2025 12:20,Checked the app 3 times. Still no real-time update for Route R7C. Makes the whole system unreliable.,KA-01-AB-0102
+900168,13-11-2025 11:42,Bus KA-01-AB-0105 is running behind by 19 mins near Shivaji_Nagar. The schedule is a joke.,KA-01-AB-0105
+900169,13-11-2025 17:06,The leaking roof is disgusting. Bus KA-01-AB-0101 needs maintenance asap. \@Official,
+900170,13-11-2025 07:56,Seriously no space to move from MG_Road. Trip on R7C should not let in so many passengers. daily struggle,
+900171,13-11-2025 13:32,Seriously sardine can from Marathahalli. Bus KA-01-AB-0105 should not let in so many passengers.,
+900172,13-11-2025 18:50,Bus KA-01-AB-0103 is off schedule by 43 mins near Silk_Board. The schedule is a joke. \#Traffic,KA-01-AB-0103
+900173,13-11-2025 08:48,Driver of KA-01-AB-0104 was skipping stops when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900174,13-11-2025 09:28,Bus KA-01-AB-0101 is late by 19 mins near Shivaji_Nagar. The schedule is a joke.,
+900175,13-11-2025 17:21,Trip on R7C is late by 45 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0105
+900176,13-11-2025 07:46,Bus KA-01-AB-0104 is late by 38 mins near MG_Road. The schedule is a joke. daily struggle,KA-01-AB-0104
+900177,13-11-2025 18:22,Seriously full from Marathahalli. Route R7C should not let in so many passengers.,
+900178,13-11-2025 17:08,Excellent journey on Bus KA-01-AB-0101 this morning. Everything was on time.,
+900179,13-11-2025 18:58,Driver of KA-01-AB-0103 was unprofessional when asked for the stop. Unprofessional behavior. \#Traffic,
+900180,13-11-2025 18:52,Excellent journey on Bus KA-01-AB-0102 this morning. Everything was comfortable. pls respond,KA-01-AB-0102
+900181,13-11-2025 15:12,The no fan is disgusting. Bus KA-01-AB-0105 needs maintenance asap.,KA-01-AB-0105
+900182,13-11-2025 14:57,Trip on R5A is off schedule by 29 mins near MG_Road. The schedule is a joke.,KA-01-AB-0104
+900183,13-11-2025 07:16,Driver of KA-01-AB-0104 was unprofessional when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900184,13-11-2025 16:39,Bus KA-01-AB-0103 is delayed by 36 mins near Whitefield. The schedule is a joke.,
+900185,13-11-2025 17:52,Seriously sardine can from Koramangala. Trip on R5A should not let in so many passengers.,KA-01-AB-0102
+900186,13-11-2025 17:23,Excellent journey on Trip on R5A this morning. Everything was on time. pls respond,KA-01-AB-0105
+900187,13-11-2025 14:15,Checked the app 3 times. Still no information for Route R5A. Makes the whole system unreliable.,KA-01-AB-0103
+900188,13-11-2025 16:53,Driver of KA-01-AB-0102 was not helpful when asked for the stop. Unprofessional behavior. \#Traffic,
+900189,13-11-2025 14:17,Checked the app 3 times. Still tracker broken for Bus KA-01-AB-0103. Makes the whole system unreliable.,KA-01-AB-0103
+900190,13-11-2025 10:50,Seriously full from Koramangala. Route R12B should not let in so many passengers.,KA-01-AB-0104
+900191,13-11-2025 11:21,Bus KA-01-AB-0101 is took forever by 15 mins near Shivaji_Nagar. The schedule is a joke. \#Traffic,KA-01-AB-0101
+900192,13-11-2025 18:25,The lights out is disgusting. Bus KA-01-AB-0104 needs maintenance asap.,
+900193,13-11-2025 09:09,Seriously packed from Silk_Board. Bus KA-01-AB-0101 should not let in so many passengers.,
+900194,13-11-2025 13:16,Driver of KA-01-AB-0102 was skipping stops when asked for the stop. Unprofessional behavior.,KA-01-AB-0102
+900195,13-11-2025 11:38,Seriously packed from Koramangala. Bus KA-01-AB-0104 should not let in so many passengers.,KA-01-AB-0104
+900196,13-11-2025 18:25,Route R12B is off schedule by 24 mins near Marathahalli. The schedule is a joke. \@Official,
+900197,13-11-2025 16:41,Seriously packed from Shivaji_Nagar. Trip on R5A should not let in so many passengers.,KA-01-AB-0102
+900198,13-11-2025 16:15,Route R12B is running behind by 43 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0103
+900199,13-11-2025 08:37,Bus KA-01-AB-0105 is late by 45 mins near Shivaji_Nagar. The schedule is a joke.,KA-01-AB-0105
+900200,13-11-2025 14:06,Checked the app 3 times. Still no information for Bus KA-01-AB-0102. Makes the whole system unreliable.,
+900201,13-11-2025 14:13,Bus KA-01-AB-0103 is delayed by 16 mins near Whitefield. The schedule is a joke.,KA-01-AB-0103
+900202,13-11-2025 08:16,Checked the app 3 times. Still no information for Trip on R7C. Makes the whole system unreliable.,KA-01-AB-0103
+900203,13-11-2025 08:50,Bus KA-01-AB-0101 is took forever by 31 mins near Shivaji_Nagar. The schedule is a joke.,KA-01-AB-0101
+900204,13-11-2025 11:19,Seriously overcrowded from Koramangala. Trip on R12B should not let in so many passengers.,
+900205,13-11-2025 13:13,Checked the app 3 times. Still no ETA for Route R7C. Makes the whole system unreliable. \@Official,KA-01-AB-0103
+900206,13-11-2025 07:59,Driver of KA-01-AB-0101 was unprofessional when asked for the stop. Unprofessional behavior.,
+900207,13-11-2025 07:30,Bus KA-01-AB-0102 is delayed by 42 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0102
+900208,13-11-2025 07:17,Seriously sardine can from Koramangala. Route R5A should not let in so many passengers.,KA-01-AB-0103
+900209,13-11-2025 14:22,Route R12B is off schedule by 12 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0101
+900210,13-11-2025 10:52,Route R7C is running behind by 27 mins near Whitefield. The schedule is a joke.,KA-01-AB-0102
+900211,13-11-2025 09:02,Seriously full from Marathahalli. Route R7C should not let in so many passengers. daily struggle,KA-01-AB-0105
+900212,13-11-2025 07:33,Trip on R5A is took forever by 31 mins near Silk_Board. The schedule is a joke.,
+900213,13-11-2025 11:44,Checked the app 3 times. Still no information for Trip on R5A. Makes the whole system unreliable.,KA-01-AB-0104
+900214,13-11-2025 18:55,Excellent journey on Bus KA-01-AB-0103 this morning. Everything was on time.,KA-01-AB-0103
+900215,13-11-2025 16:52,Route R7C is late by 26 mins near Koramangala. The schedule is a joke.,KA-01-AB-0103
+900216,13-11-2025 09:53,Driver of KA-01-AB-0101 was aggressive when asked for the stop. Unprofessional behavior.,KA-01-AB-0101
+900217,13-11-2025 09:45,Bus KA-01-AB-0105 is took forever by 12 mins near Whitefield. The schedule is a joke.,KA-01-AB-0105
+900218,13-11-2025 11:36,Seriously overcrowded from MG_Road. Bus KA-01-AB-0105 should not let in so many passengers. pls respond,
+900219,13-11-2025 07:22,Excellent journey on Trip on R12B this morning. Everything was clean. pls respond,KA-01-AB-0102
+900220,13-11-2025 15:23,Bus KA-01-AB-0101 is late by 37 mins near Shivaji_Nagar. The schedule is a joke.,
+900221,13-11-2025 10:59,Seriously full from Silk_Board. Bus KA-01-AB-0102 should not let in so many passengers.,KA-01-AB-0102
+900222,13-11-2025 15:31,Seriously sardine can from Marathahalli. Bus KA-01-AB-0102 should not let in so many passengers.,KA-01-AB-0102
+900223,13-11-2025 11:54,Trip on R12B is off schedule by 37 mins near Koramangala. The schedule is a joke. \#Traffic,KA-01-AB-0105
+900224,13-11-2025 11:11,Trip on R7C is running behind by 45 mins near Shivaji_Nagar. The schedule is a joke.,
+900225,13-11-2025 16:27,Bus KA-01-AB-0103 is took forever by 44 mins near Shivaji_Nagar. The schedule is a joke.,KA-01-AB-0103
+900226,13-11-2025 12:58,Seriously packed from Marathahalli. Route R7C should not let in so many passengers.,
+900227,13-11-2025 07:44,Seriously sardine can from Shivaji_Nagar. Route R5A should not let in so many passengers. daily struggle,KA-01-AB-0105
+900228,13-11-2025 11:10,Checked the app 3 times. Still no ETA for Bus KA-01-AB-0104. Makes the whole system unreliable.,
+900229,13-11-2025 07:41,Route R5A is late by 21 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0101
+900230,13-11-2025 11:51,Route R5A is delayed by 34 mins near Whitefield. The schedule is a joke.,
+900231,13-11-2025 11:34,Driver of KA-01-AB-0103 was not helpful when asked for the stop. Unprofessional behavior.,KA-01-AB-0103
+900232,13-11-2025 14:26,Route R5A is delayed by 38 mins near Shivaji_Nagar. The schedule is a joke. \#Traffic,KA-01-AB-0103
+900233,13-11-2025 18:28,The no fan is disgusting. Bus KA-01-AB-0103 needs maintenance asap.,KA-01-AB-0103
+900234,13-11-2025 10:00,Bus KA-01-AB-0103 is off schedule by 10 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0103
+900235,13-11-2025 17:41,Driver of KA-01-AB-0104 was aggressive when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900236,13-11-2025 12:17,Checked the app 3 times. Still app not working for Route R7C. Makes the whole system unreliable.,KA-01-AB-0104
+900237,13-11-2025 18:36,Driver of KA-01-AB-0103 was skipping stops when asked for the stop. Unprofessional behavior. \@Official,KA-01-AB-0103
+900238,13-11-2025 15:22,Route R12B is took forever by 24 mins near Koramangala. The schedule is a joke.,
+900239,13-11-2025 14:47,Route R12B is delayed by 22 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0104
+900240,13-11-2025 15:51,Bus KA-01-AB-0103 is late by 39 mins near Koramangala. The schedule is a joke.,KA-01-AB-0103
+900241,13-11-2025 15:24,Checked the app 3 times. Still no real-time update for Bus KA-01-AB-0102. Makes the whole system unreliable.,KA-01-AB-0102
+900242,13-11-2025 15:46,Route R7C is took forever by 38 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0101
+900243,13-11-2025 18:06,Route R12B is late by 42 mins near Shivaji_Nagar. The schedule is a joke. pls respond,KA-01-AB-0103
+900244,13-11-2025 14:35,Route R12B is running behind by 30 mins near Koramangala. The schedule is a joke.,
+900245,13-11-2025 12:50,Driver of KA-01-AB-0102 was unprofessional when asked for the stop. Unprofessional behavior.,KA-01-AB-0102
+900246,13-11-2025 14:06,Bus KA-01-AB-0105 is delayed by 15 mins near Shivaji_Nagar. The schedule is a joke. pls respond,
+900247,13-11-2025 14:30,Bus KA-01-AB-0102 is late by 11 mins near Whitefield. The schedule is a joke.,
+900248,13-11-2025 08:48,The no fan is disgusting. Bus KA-01-AB-0104 needs maintenance asap.,KA-01-AB-0104
+900249,13-11-2025 08:32,Route R7C is delayed by 28 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0101
+900250,13-11-2025 14:10,Checked the app 3 times. Still app not working for Bus KA-01-AB-0102. Makes the whole system unreliable. pls respond,
+900251,13-11-2025 15:27,Checked the app 3 times. Still no information for Route R5A. Makes the whole system unreliable.,KA-01-AB-0103
+900252,13-11-2025 17:13,Excellent journey on Route R5A this morning. Everything was comfortable.,KA-01-AB-0105
+900253,13-11-2025 11:39,Driver of KA-01-AB-0104 was aggressive when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900254,13-11-2025 09:43,Checked the app 3 times. Still tracker broken for Bus KA-01-AB-0105. Makes the whole system unreliable.,KA-01-AB-0105
+900255,13-11-2025 19:00,Driver of KA-01-AB-0101 was not helpful when asked for the stop. Unprofessional behavior.,KA-01-AB-0101
+900256,13-11-2025 13:49,Route R5A is off schedule by 35 mins near Koramangala. The schedule is a joke.,
+900257,13-11-2025 09:50,Route R7C is took forever by 42 mins near Koramangala. The schedule is a joke.,
+900258,13-11-2025 11:17,Seriously full from Marathahalli. Bus KA-01-AB-0102 should not let in so many passengers.,KA-01-AB-0102
+900259,13-11-2025 11:31,Checked the app 3 times. Still tracker broken for Trip on R12B. Makes the whole system unreliable.,KA-01-AB-0104
+900260,13-11-2025 08:00,Bus KA-01-AB-0103 is off schedule by 22 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0103
+900261,13-11-2025 16:07,Bus KA-01-AB-0104 is delayed by 10 mins near Whitefield. The schedule is a joke.,KA-01-AB-0104
+900262,13-11-2025 17:11,Checked the app 3 times. Still no real-time update for Route R7C. Makes the whole system unreliable.,
+900263,13-11-2025 18:15,Seriously packed from Whitefield. Trip on R12B should not let in so many passengers.,KA-01-AB-0104
+900264,13-11-2025 14:44,Route R12B is late by 22 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0102
+900265,13-11-2025 13:53,Bus KA-01-AB-0105 is off schedule by 13 mins near MG_Road. The schedule is a joke.,KA-01-AB-0105
+900266,13-11-2025 13:41,Excellent journey on Bus KA-01-AB-0104 this morning. Everything was courteous.,
+900267,13-11-2025 15:17,Seriously full from Marathahalli. Bus KA-01-AB-0104 should not let in so many passengers.,KA-01-AB-0104
+900268,13-11-2025 08:24,Checked the app 3 times. Still app not working for Route R5A. Makes the whole system unreliable.,
+900269,13-11-2025 07:19,Seriously sardine can from Koramangala. Trip on R5A should not let in so many passengers.,
+900270,13-11-2025 07:34,Checked the app 3 times. Still app not working for Route R5A. Makes the whole system unreliable.,KA-01-AB-0105
+900271,13-11-2025 16:35,Seriously sardine can from Silk_Board. Route R5A should not let in so many passengers.,KA-01-AB-0104
+900272,13-11-2025 07:44,Excellent journey on Route R5A this morning. Everything was clean.,KA-01-AB-0102
+900273,13-11-2025 17:31,Seriously full from Marathahalli. Trip on R7C should not let in so many passengers. \#Traffic,KA-01-AB-0101
+900274,13-11-2025 16:04,Seriously packed from Shivaji_Nagar. Bus KA-01-AB-0104 should not let in so many passengers.,KA-01-AB-0104
+900275,13-11-2025 10:21,The leaking roof is disgusting. Bus KA-01-AB-0101 needs maintenance asap.,
+900276,13-11-2025 08:17,Checked the app 3 times. Still no ETA for Route R7C. Makes the whole system unreliable.,
+900277,13-11-2025 16:20,Driver of KA-01-AB-0104 was skipping stops when asked for the stop. Unprofessional behavior.,
+900278,13-11-2025 14:37,Checked the app 3 times. Still no information for Route R12B. Makes the whole system unreliable. daily struggle,KA-01-AB-0102
+900279,13-11-2025 16:26,Trip on R7C is off schedule by 28 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0102
+900280,13-11-2025 15:32,Checked the app 3 times. Still app not working for Route R12B. Makes the whole system unreliable.,KA-01-AB-0103
+900281,13-11-2025 17:41,Route R5A is late by 18 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0104
+900282,13-11-2025 08:13,Driver of KA-01-AB-0104 was skipping stops when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900283,13-11-2025 08:11,Driver of KA-01-AB-0104 was rude when asked for the stop. Unprofessional behavior. \@Official,KA-01-AB-0104
+900284,13-11-2025 12:06,Seriously full from Marathahalli. Trip on R5A should not let in so many passengers.,KA-01-AB-0102
+900285,13-11-2025 12:34,Trip on R12B is running behind by 18 mins near Shivaji_Nagar. The schedule is a joke.,KA-01-AB-0101
+900286,13-11-2025 17:15,Bus KA-01-AB-0105 is delayed by 36 mins near Shivaji_Nagar. The schedule is a joke.,KA-01-AB-0105
+900287,13-11-2025 09:40,Seriously no space to move from Whitefield. Bus KA-01-AB-0103 should not let in so many passengers.,KA-01-AB-0103
+900288,13-11-2025 14:51,The broken seat is disgusting. Bus KA-01-AB-0102 needs maintenance asap.,KA-01-AB-0102
+900289,13-11-2025 16:40,Checked the app 3 times. Still no information for Route R5A. Makes the whole system unreliable.,KA-01-AB-0105
+900290,13-11-2025 11:33,Driver of KA-01-AB-0104 was rude when asked for the stop. Unprofessional behavior.,
+900291,13-11-2025 13:10,Seriously packed from Shivaji_Nagar. Route R5A should not let in so many passengers.,KA-01-AB-0105
+900292,13-11-2025 10:26,Seriously packed from Silk_Board. Route R7C should not let in so many passengers.,KA-01-AB-0101
+900293,13-11-2025 11:11,Seriously sardine can from Whitefield. Trip on R12B should not let in so many passengers.,KA-01-AB-0105
+900294,13-11-2025 15:12,The lights out is disgusting. Bus KA-01-AB-0103 needs maintenance asap.,
+900295,13-11-2025 11:18,Seriously overcrowded from Shivaji_Nagar. Bus KA-01-AB-0102 should not let in so many passengers.,KA-01-AB-0102
+900296,13-11-2025 09:44,Checked the app 3 times. Still app not working for Bus KA-01-AB-0101. Makes the whole system unreliable.,KA-01-AB-0101
+900297,13-11-2025 07:28,Checked the app 3 times. Still no information for Route R7C. Makes the whole system unreliable.,KA-01-AB-0103
+900298,13-11-2025 11:20,Route R12B is running behind by 27 mins near Silk_Board. The schedule is a joke. \#Traffic,KA-01-AB-0104
+900299,13-11-2025 10:10,Seriously no space to move from MG_Road. Trip on R5A should not let in so many passengers. daily struggle,KA-01-AB-0101
+900300,13-11-2025 10:23,Seriously sardine can from MG_Road. Route R7C should not let in so many passengers. \#Traffic,KA-01-AB-0104
+900301,13-11-2025 13:18,Driver of KA-01-AB-0105 was not helpful when asked for the stop. Unprofessional behavior.,KA-01-AB-0105
+900302,13-11-2025 09:18,Excellent journey on Route R7C this morning. Everything was great service.,
+900303,13-11-2025 14:02,Route R7C is off schedule by 33 mins near Koramangala. The schedule is a joke. \@Official,KA-01-AB-0101
+900304,13-11-2025 18:27,Bus KA-01-AB-0104 is late by 12 mins near MG_Road. The schedule is a joke.,KA-01-AB-0104
+900305,13-11-2025 13:42,The broken seat is disgusting. Bus KA-01-AB-0104 needs maintenance asap.,KA-01-AB-0104
+900306,13-11-2025 14:58,Driver of KA-01-AB-0104 was aggressive when asked for the stop. Unprofessional behavior. \@Official,
+900307,13-11-2025 09:35,Driver of KA-01-AB-0102 was skipping stops when asked for the stop. Unprofessional behavior.,KA-01-AB-0102
+900308,13-11-2025 16:00,Seriously packed from Koramangala. Route R12B should not let in so many passengers.,
+900309,13-11-2025 11:56,Route R12B is delayed by 40 mins near Whitefield. The schedule is a joke.,KA-01-AB-0102
+900310,13-11-2025 14:52,Driver of KA-01-AB-0105 was aggressive when asked for the stop. Unprofessional behavior.,
+900311,13-11-2025 09:12,Seriously sardine can from Silk_Board. Bus KA-01-AB-0104 should not let in so many passengers. \@Official,
+900312,13-11-2025 08:12,Seriously full from Silk_Board. Bus KA-01-AB-0103 should not let in so many passengers.,KA-01-AB-0103
+900313,13-11-2025 17:50,Checked the app 3 times. Still tracker broken for Route R7C. Makes the whole system unreliable.,
+900314,13-11-2025 13:31,Driver of KA-01-AB-0104 was rude when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900315,13-11-2025 12:49,Seriously full from Whitefield. Route R12B should not let in so many passengers.,KA-01-AB-0101
+900316,13-11-2025 13:32,Bus KA-01-AB-0101 is delayed by 44 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0101
+900317,13-11-2025 13:12,Seriously sardine can from Whitefield. Route R7C should not let in so many passengers.,
+900318,13-11-2025 16:08,Excellent journey on Bus KA-01-AB-0105 this morning. Everything was great service.,KA-01-AB-0105
+900319,13-11-2025 11:05,Checked the app 3 times. Still app not working for Trip on R7C. Makes the whole system unreliable.,KA-01-AB-0102
+900320,13-11-2025 14:00,Seriously overcrowded from MG_Road. Route R7C should not let in so many passengers. \@Official,KA-01-AB-0102
+900321,13-11-2025 16:56,Checked the app 3 times. Still no information for Bus KA-01-AB-0104. Makes the whole system unreliable.,KA-01-AB-0104
+900322,13-11-2025 15:00,Checked the app 3 times. Still no real-time update for Route R5A. Makes the whole system unreliable. pls respond,
+900323,13-11-2025 17:31,Checked the app 3 times. Still app not working for Route R5A. Makes the whole system unreliable.,KA-01-AB-0101
+900324,13-11-2025 18:56,Excellent journey on Bus KA-01-AB-0103 this morning. Everything was courteous.,KA-01-AB-0103
+900325,13-11-2025 13:06,Checked the app 3 times. Still no ETA for Route R5A. Makes the whole system unreliable.,
+900326,13-11-2025 14:14,Route R5A is off schedule by 11 mins near Shivaji_Nagar. The schedule is a joke.,
+900327,13-11-2025 17:35,Driver of KA-01-AB-0102 was unprofessional when asked for the stop. Unprofessional behavior.,
+900328,13-11-2025 14:17,Excellent journey on Route R5A this morning. Everything was on time.,KA-01-AB-0103
+900329,13-11-2025 14:04,The no fan is disgusting. Bus KA-01-AB-0103 needs maintenance asap.,KA-01-AB-0103
+900330,13-11-2025 18:46,Seriously packed from Silk_Board. Bus KA-01-AB-0104 should not let in so many passengers.,
+900331,13-11-2025 16:36,Excellent journey on Route R5A this morning. Everything was courteous.,
+900332,13-11-2025 08:16,Seriously overcrowded from Koramangala. Bus KA-01-AB-0104 should not let in so many passengers. pls respond,KA-01-AB-0104
+900333,13-11-2025 17:04,Driver of KA-01-AB-0105 was unprofessional when asked for the stop. Unprofessional behavior.,KA-01-AB-0105
+900334,13-11-2025 12:45,Checked the app 3 times. Still no ETA for Bus KA-01-AB-0104. Makes the whole system unreliable.,KA-01-AB-0104
+900335,13-11-2025 10:38,Route R12B is late by 19 mins near Shivaji_Nagar. The schedule is a joke.,
+900336,13-11-2025 15:37,Driver of KA-01-AB-0104 was skipping stops when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900337,13-11-2025 12:25,Checked the app 3 times. Still no information for Trip on R12B. Makes the whole system unreliable.,KA-01-AB-0102
+900338,13-11-2025 13:30,Route R5A is took forever by 26 mins near MG_Road. The schedule is a joke.,KA-01-AB-0105
+900339,13-11-2025 18:31,Seriously full from Shivaji_Nagar. Route R5A should not let in so many passengers. pls respond,
+900340,13-11-2025 10:05,Bus KA-01-AB-0104 is off schedule by 17 mins near Whitefield. The schedule is a joke.,KA-01-AB-0104
+900341,13-11-2025 08:59,Bus KA-01-AB-0103 is late by 20 mins near Shivaji_Nagar. The schedule is a joke.,
+900342,13-11-2025 17:06,Bus KA-01-AB-0105 is late by 33 mins near MG_Road. The schedule is a joke.,
+900343,13-11-2025 10:00,Checked the app 3 times. Still no information for Bus KA-01-AB-0101. Makes the whole system unreliable. \@Official,
+900344,13-11-2025 18:57,Bus KA-01-AB-0105 is off schedule by 12 mins near Shivaji_Nagar. The schedule is a joke.,KA-01-AB-0105
+900345,13-11-2025 18:56,Bus KA-01-AB-0104 is running behind by 26 mins near Koramangala. The schedule is a joke.,KA-01-AB-0104
+900346,13-11-2025 13:04,Excellent journey on Bus KA-01-AB-0104 this morning. Everything was great service.,KA-01-AB-0104
+900347,13-11-2025 18:30,The lights out is disgusting. Bus KA-01-AB-0105 needs maintenance asap.,KA-01-AB-0105
+900348,13-11-2025 13:58,Seriously sardine can from MG_Road. Route R5A should not let in so many passengers.,KA-01-AB-0104
+900349,13-11-2025 16:59,Seriously sardine can from MG_Road. Bus KA-01-AB-0105 should not let in so many passengers. \#Traffic,KA-01-AB-0105
+900350,13-11-2025 10:13,Trip on R5A is delayed by 14 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0102
+900351,13-11-2025 18:45,Bus KA-01-AB-0103 is late by 43 mins near Shivaji_Nagar. The schedule is a joke.,
+900352,13-11-2025 09:42,Driver of KA-01-AB-0104 was unprofessional when asked for the stop. Unprofessional behavior.,
+900353,13-11-2025 15:00,Seriously overcrowded from MG_Road. Route R7C should not let in so many passengers.,
+900354,13-11-2025 10:26,The leaking roof is disgusting. Bus KA-01-AB-0101 needs maintenance asap. pls respond,KA-01-AB-0101
+900355,13-11-2025 07:23,Route R12B is late by 43 mins near Shivaji_Nagar. The schedule is a joke.,
+900356,13-11-2025 12:21,Seriously sardine can from Shivaji_Nagar. Trip on R12B should not let in so many passengers.,KA-01-AB-0105
+900357,13-11-2025 08:59,Seriously full from MG_Road. Route R12B should not let in so many passengers.,
+900358,13-11-2025 10:36,Checked the app 3 times. Still app not working for Bus KA-01-AB-0105. Makes the whole system unreliable.,KA-01-AB-0105
+900359,13-11-2025 18:59,Driver of KA-01-AB-0105 was skipping stops when asked for the stop. Unprofessional behavior.,
+900360,13-11-2025 12:11,Driver of KA-01-AB-0105 was rude when asked for the stop. Unprofessional behavior.,KA-01-AB-0105
+900361,13-11-2025 16:45,Driver of KA-01-AB-0105 was rude when asked for the stop. Unprofessional behavior.,KA-01-AB-0105
+900362,13-11-2025 10:19,Trip on R5A is off schedule by 30 mins near Shivaji_Nagar. The schedule is a joke.,
+900363,13-11-2025 07:24,Driver of KA-01-AB-0104 was aggressive when asked for the stop. Unprofessional behavior. \@Official,
+900364,13-11-2025 08:19,Bus KA-01-AB-0103 is delayed by 20 mins near MG_Road. The schedule is a joke.,KA-01-AB-0103
+900365,13-11-2025 13:10,Driver of KA-01-AB-0102 was unprofessional when asked for the stop. Unprofessional behavior.,KA-01-AB-0102
+900366,13-11-2025 17:10,Checked the app 3 times. Still no real-time update for Trip on R5A. Makes the whole system unreliable.,KA-01-AB-0101
+900367,13-11-2025 16:21,Route R12B is off schedule by 42 mins near Whitefield. The schedule is a joke.,
+900368,13-11-2025 10:54,Trip on R7C is off schedule by 19 mins near MG_Road. The schedule is a joke.,
+900369,13-11-2025 13:04,Route R7C is took forever by 42 mins near MG_Road. The schedule is a joke.,
+900370,13-11-2025 12:48,Route R12B is delayed by 42 mins near MG_Road. The schedule is a joke.,
+900371,13-11-2025 16:02,Seriously packed from MG_Road. Route R7C should not let in so many passengers.,KA-01-AB-0104
+900372,13-11-2025 11:14,Seriously no space to move from Shivaji_Nagar. Route R7C should not let in so many passengers.,KA-01-AB-0105
+900373,13-11-2025 11:29,Bus KA-01-AB-0102 is took forever by 45 mins near Whitefield. The schedule is a joke.,KA-01-AB-0102
+900374,13-11-2025 13:35,Seriously overcrowded from Whitefield. Trip on R12B should not let in so many passengers. daily struggle,KA-01-AB-0101
+900375,13-11-2025 13:09,Trip on R12B is late by 23 mins near Koramangala. The schedule is a joke. daily struggle,
+900376,13-11-2025 16:55,Route R12B is off schedule by 26 mins near Shivaji_Nagar. The schedule is a joke.,KA-01-AB-0103
+900377,13-11-2025 11:19,Checked the app 3 times. Still no ETA for Bus KA-01-AB-0105. Makes the whole system unreliable.,KA-01-AB-0105
+900378,13-11-2025 09:39,Seriously no space to move from MG_Road. Route R5A should not let in so many passengers.,KA-01-AB-0101
+900379,13-11-2025 11:17,Checked the app 3 times. Still no information for Trip on R7C. Makes the whole system unreliable. \#Traffic,KA-01-AB-0103
+900380,13-11-2025 09:57,Excellent journey on Bus KA-01-AB-0103 this morning. Everything was great service.,
+900381,13-11-2025 18:22,Driver of KA-01-AB-0105 was skipping stops when asked for the stop. Unprofessional behavior. pls respond,KA-01-AB-0105
+900382,13-11-2025 10:11,Bus KA-01-AB-0104 is running behind by 22 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0104
+900383,13-11-2025 10:00,Checked the app 3 times. Still no ETA for Trip on R7C. Makes the whole system unreliable.,KA-01-AB-0103
+900384,13-11-2025 09:22,Seriously packed from Silk_Board. Bus KA-01-AB-0105 should not let in so many passengers.,KA-01-AB-0105
+900385,13-11-2025 14:05,Seriously full from MG_Road. Bus KA-01-AB-0104 should not let in so many passengers.,KA-01-AB-0104
+900386,13-11-2025 17:05,Driver of KA-01-AB-0104 was not helpful when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900387,13-11-2025 17:00,Seriously packed from Marathahalli. Bus KA-01-AB-0103 should not let in so many passengers. \@Official,
+900388,13-11-2025 13:29,Seriously full from Silk_Board. Bus KA-01-AB-0103 should not let in so many passengers. \@Official,
+900389,13-11-2025 11:53,Route R5A is late by 30 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0104
+900390,13-11-2025 07:20,Checked the app 3 times. Still app not working for Trip on R5A. Makes the whole system unreliable.,KA-01-AB-0105
+900391,13-11-2025 12:15,Checked the app 3 times. Still no ETA for Trip on R5A. Makes the whole system unreliable.,KA-01-AB-0101
+900392,13-11-2025 18:20,Checked the app 3 times. Still no real-time update for Bus KA-01-AB-0103. Makes the whole system unreliable.,KA-01-AB-0103
+900393,13-11-2025 12:32,Driver of KA-01-AB-0104 was rude when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900394,13-11-2025 13:08,Route R12B is off schedule by 44 mins near Koramangala. The schedule is a joke. daily struggle,
+900395,13-11-2025 09:08,Seriously overcrowded from Koramangala. Route R7C should not let in so many passengers. \#Traffic,
+900396,13-11-2025 14:31,Trip on R7C is running behind by 24 mins near Silk_Board. The schedule is a joke.,
+900397,13-11-2025 14:11,Checked the app 3 times. Still no ETA for Route R12B. Makes the whole system unreliable.,
+900398,13-11-2025 18:59,Route R12B is running behind by 42 mins near Koramangala. The schedule is a joke. pls respond,
+900399,13-11-2025 17:39,Seriously sardine can from MG_Road. Bus KA-01-AB-0102 should not let in so many passengers.,KA-01-AB-0102
+900400,13-11-2025 17:28,Excellent journey on Bus KA-01-AB-0103 this morning. Everything was clean.,
+900401,13-11-2025 08:41,Seriously overcrowded from Marathahalli. Route R7C should not let in so many passengers.,KA-01-AB-0105
+900402,13-11-2025 09:15,Route R12B is running behind by 36 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0101
+900403,13-11-2025 12:38,Trip on R5A is delayed by 45 mins near Whitefield. The schedule is a joke.,KA-01-AB-0102
+900404,13-11-2025 10:55,Route R12B is late by 23 mins near MG_Road. The schedule is a joke.,KA-01-AB-0105
+900405,13-11-2025 12:39,Checked the app 3 times. Still app not working for Trip on R12B. Makes the whole system unreliable.,KA-01-AB-0103
+900406,13-11-2025 18:20,Seriously full from MG_Road. Route R5A should not let in so many passengers. pls respond,KA-01-AB-0103
+900407,13-11-2025 07:17,Checked the app 3 times. Still app not working for Route R12B. Makes the whole system unreliable.,KA-01-AB-0103
+900408,13-11-2025 13:47,Checked the app 3 times. Still no ETA for Bus KA-01-AB-0102. Makes the whole system unreliable.,KA-01-AB-0102
+900409,13-11-2025 10:57,Checked the app 3 times. Still no ETA for Bus KA-01-AB-0101. Makes the whole system unreliable.,
+900410,13-11-2025 08:20,Route R7C is off schedule by 14 mins near Whitefield. The schedule is a joke. pls respond,KA-01-AB-0104
+900411,13-11-2025 17:49,Seriously sardine can from Whitefield. Bus KA-01-AB-0105 should not let in so many passengers.,KA-01-AB-0105
+900412,13-11-2025 10:21,Driver of KA-01-AB-0105 was skipping stops when asked for the stop. Unprofessional behavior.,
+900413,13-11-2025 16:16,Route R5A is took forever by 26 mins near Whitefield. The schedule is a joke.,KA-01-AB-0104
+900414,13-11-2025 16:33,Trip on R7C is delayed by 41 mins near Silk_Board. The schedule is a joke.,
+900415,13-11-2025 15:02,Driver of KA-01-AB-0101 was rude when asked for the stop. Unprofessional behavior.,KA-01-AB-0101
+900416,13-11-2025 14:01,Seriously full from Shivaji_Nagar. Trip on R12B should not let in so many passengers.,
+900417,13-11-2025 11:44,Checked the app 3 times. Still no ETA for Bus KA-01-AB-0102. Makes the whole system unreliable.,KA-01-AB-0102
+900418,13-11-2025 13:35,Bus KA-01-AB-0105 is late by 31 mins near MG_Road. The schedule is a joke.,
+900419,13-11-2025 18:42,Route R7C is off schedule by 20 mins near Marathahalli. The schedule is a joke.,
+900420,13-11-2025 14:16,Checked the app 3 times. Still tracker broken for Bus KA-01-AB-0101. Makes the whole system unreliable.,
+900421,13-11-2025 17:11,Checked the app 3 times. Still no real-time update for Route R12B. Makes the whole system unreliable.,KA-01-AB-0102
+900422,13-11-2025 14:34,Route R12B is off schedule by 28 mins near MG_Road. The schedule is a joke.,KA-01-AB-0104
+900423,13-11-2025 15:12,Route R5A is running behind by 17 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0103
+900424,13-11-2025 16:49,Checked the app 3 times. Still tracker broken for Route R5A. Makes the whole system unreliable. \@Official,KA-01-AB-0104
+900425,13-11-2025 07:46,Excellent journey on Bus KA-01-AB-0104 this morning. Everything was courteous.,KA-01-AB-0104
+900426,13-11-2025 11:11,Trip on R5A is running behind by 44 mins near Marathahalli. The schedule is a joke. \@Official,KA-01-AB-0103
+900427,13-11-2025 14:40,Route R5A is late by 41 mins near MG_Road. The schedule is a joke.,KA-01-AB-0105
+900428,13-11-2025 18:22,Checked the app 3 times. Still no ETA for Bus KA-01-AB-0103. Makes the whole system unreliable. daily struggle,KA-01-AB-0103
+900429,13-11-2025 17:20,Driver of KA-01-AB-0104 was unprofessional when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900430,13-11-2025 09:52,Route R7C is delayed by 44 mins near Whitefield. The schedule is a joke.,
+900431,13-11-2025 17:56,Driver of KA-01-AB-0104 was not helpful when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900432,13-11-2025 10:11,Bus KA-01-AB-0104 is running behind by 28 mins near Marathahalli. The schedule is a joke.,
+900433,13-11-2025 12:37,Bus KA-01-AB-0101 is late by 30 mins near Whitefield. The schedule is a joke. \#Traffic,KA-01-AB-0101
+900434,13-11-2025 13:59,Checked the app 3 times. Still app not working for Route R5A. Makes the whole system unreliable.,KA-01-AB-0102
+900435,13-11-2025 14:20,Route R12B is delayed by 35 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0104
+900436,13-11-2025 15:30,Trip on R7C is running behind by 30 mins near Marathahalli. The schedule is a joke.,
+900437,13-11-2025 17:21,The lights out is disgusting. Bus KA-01-AB-0103 needs maintenance asap.,KA-01-AB-0103
+900438,13-11-2025 18:44,Checked the app 3 times. Still no ETA for Route R5A. Makes the whole system unreliable.,
+900439,13-11-2025 18:01,Route R5A is running behind by 12 mins near MG_Road. The schedule is a joke. daily struggle,KA-01-AB-0105
+900440,13-11-2025 14:43,Excellent journey on Route R12B this morning. Everything was clean.,
+900441,13-11-2025 17:36,Trip on R12B is late by 28 mins near Shivaji_Nagar. The schedule is a joke.,KA-01-AB-0105
+900442,13-11-2025 16:58,Excellent journey on Bus KA-01-AB-0101 this morning. Everything was on time. \@Official,KA-01-AB-0101
+900443,13-11-2025 17:20,Excellent journey on Route R12B this morning. Everything was comfortable. \#Traffic,KA-01-AB-0101
+900444,13-11-2025 16:47,Seriously sardine can from Silk_Board. Bus KA-01-AB-0105 should not let in so many passengers.,KA-01-AB-0105
+900445,13-11-2025 11:55,Seriously no space to move from Silk_Board. Bus KA-01-AB-0103 should not let in so many passengers.,
+900446,13-11-2025 12:10,Bus KA-01-AB-0105 is took forever by 15 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0105
+900447,13-11-2025 17:01,Seriously no space to move from Shivaji_Nagar. Bus KA-01-AB-0105 should not let in so many passengers.,KA-01-AB-0105
+900448,13-11-2025 07:42,Driver of KA-01-AB-0101 was unprofessional when asked for the stop. Unprofessional behavior. \#Traffic,KA-01-AB-0101
+900449,13-11-2025 12:06,Route R5A is delayed by 34 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0103
+900450,13-11-2025 15:27,Bus KA-01-AB-0101 is delayed by 39 mins near MG_Road. The schedule is a joke.,
+900451,13-11-2025 18:05,Checked the app 3 times. Still no ETA for Route R7C. Makes the whole system unreliable.,
+900452,13-11-2025 10:18,Checked the app 3 times. Still app not working for Route R12B. Makes the whole system unreliable.,
+900453,13-11-2025 09:32,Seriously no space to move from MG_Road. Route R12B should not let in so many passengers. daily struggle,
+900454,13-11-2025 08:32,Bus KA-01-AB-0103 is running behind by 37 mins near Koramangala. The schedule is a joke.,KA-01-AB-0103
+900455,13-11-2025 16:41,Seriously sardine can from Whitefield. Trip on R12B should not let in so many passengers. pls respond,
+900456,13-11-2025 12:17,Driver of KA-01-AB-0102 was not helpful when asked for the stop. Unprofessional behavior.,KA-01-AB-0102
+900457,13-11-2025 17:52,Driver of KA-01-AB-0104 was aggressive when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900458,13-11-2025 09:57,Bus KA-01-AB-0102 is delayed by 25 mins near Shivaji_Nagar. The schedule is a joke.,
+900459,13-11-2025 16:20,Seriously packed from Whitefield. Trip on R7C should not let in so many passengers.,
+900460,13-11-2025 13:44,Bus KA-01-AB-0103 is delayed by 25 mins near MG_Road. The schedule is a joke.,
+900461,13-11-2025 17:39,Driver of KA-01-AB-0101 was aggressive when asked for the stop. Unprofessional behavior.,KA-01-AB-0101
+900462,13-11-2025 18:38,Route R5A is late by 32 mins near MG_Road. The schedule is a joke. \#Traffic,
+900463,13-11-2025 08:02,Seriously no space to move from Shivaji_Nagar. Bus KA-01-AB-0105 should not let in so many passengers.,KA-01-AB-0105
+900464,13-11-2025 10:23,Seriously overcrowded from Whitefield. Trip on R12B should not let in so many passengers.,KA-01-AB-0101
+900465,13-11-2025 13:34,Checked the app 3 times. Still no ETA for Route R5A. Makes the whole system unreliable.,KA-01-AB-0103
+900466,13-11-2025 08:20,Seriously overcrowded from Koramangala. Bus KA-01-AB-0104 should not let in so many passengers.,KA-01-AB-0104
+900467,13-11-2025 10:59,Seriously full from Koramangala. Route R12B should not let in so many passengers.,KA-01-AB-0104
+900468,13-11-2025 09:29,Excellent journey on Trip on R12B this morning. Everything was clean.,KA-01-AB-0104
+900469,13-11-2025 11:57,Checked the app 3 times. Still no real-time update for Trip on R7C. Makes the whole system unreliable.,KA-01-AB-0101
+900470,13-11-2025 13:53,Seriously no space to move from Marathahalli. Route R5A should not let in so many passengers.,KA-01-AB-0101
+900471,13-11-2025 18:58,Bus KA-01-AB-0104 is off schedule by 31 mins near Koramangala. The schedule is a joke.,KA-01-AB-0104
+900472,13-11-2025 08:28,The dirty floor is disgusting. Bus KA-01-AB-0105 needs maintenance asap.,KA-01-AB-0105
+900473,13-11-2025 10:40,Seriously overcrowded from Shivaji_Nagar. Trip on R12B should not let in so many passengers.,KA-01-AB-0102
+900474,13-11-2025 09:47,Bus KA-01-AB-0105 is off schedule by 41 mins near Whitefield. The schedule is a joke. \#Traffic,
+900475,13-11-2025 18:43,Checked the app 3 times. Still app not working for Route R5A. Makes the whole system unreliable.,
+900476,13-11-2025 13:20,Driver of KA-01-AB-0105 was aggressive when asked for the stop. Unprofessional behavior.,KA-01-AB-0105
+900477,13-11-2025 14:34,Bus KA-01-AB-0102 is off schedule by 45 mins near Koramangala. The schedule is a joke.,KA-01-AB-0102
+900478,13-11-2025 09:27,Seriously packed from Silk_Board. Route R5A should not let in so many passengers.,KA-01-AB-0104
+900479,13-11-2025 13:29,Seriously full from Silk_Board. Route R7C should not let in so many passengers.,KA-01-AB-0105
+900480,13-11-2025 13:27,Route R12B is took forever by 43 mins near MG_Road. The schedule is a joke.,
+900481,13-11-2025 07:46,Route R7C is off schedule by 10 mins near MG_Road. The schedule is a joke. \#Traffic,KA-01-AB-0101
+900482,13-11-2025 09:53,Excellent journey on Route R12B this morning. Everything was courteous.,
+900483,13-11-2025 16:54,Checked the app 3 times. Still no real-time update for Route R5A. Makes the whole system unreliable.,KA-01-AB-0104
+900484,13-11-2025 08:14,Driver of KA-01-AB-0104 was skipping stops when asked for the stop. Unprofessional behavior.,KA-01-AB-0104
+900485,13-11-2025 18:30,Seriously packed from Silk_Board. Route R5A should not let in so many passengers.,KA-01-AB-0102
+900486,13-11-2025 12:15,Excellent journey on Route R12B this morning. Everything was on time. \@Official,
+900487,13-11-2025 13:50,Excellent journey on Route R12B this morning. Everything was on time.,
+900488,13-11-2025 11:23,Route R12B is late by 38 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0104
+900489,13-11-2025 08:25,Bus KA-01-AB-0104 is off schedule by 11 mins near Marathahalli. The schedule is a joke.,KA-01-AB-0104
+900490,13-11-2025 08:46,Seriously packed from Silk_Board. Bus KA-01-AB-0103 should not let in so many passengers.,KA-01-AB-0103
+900491,13-11-2025 15:25,Seriously no space to move from MG_Road. Bus KA-01-AB-0105 should not let in so many passengers.,
+900492,13-11-2025 17:30,Seriously packed from Marathahalli. Trip on R12B should not let in so many passengers.,KA-01-AB-0101
+900493,13-11-2025 18:50,Bus KA-01-AB-0104 is running behind by 15 mins near MG_Road. The schedule is a joke.,
+900494,13-11-2025 17:08,Driver of KA-01-AB-0102 was rude when asked for the stop. Unprofessional behavior.,KA-01-AB-0102
+900495,13-11-2025 15:58,Seriously overcrowded from Shivaji_Nagar. Route R7C should not let in so many passengers.,KA-01-AB-0103
+900496,13-11-2025 14:46,Route R5A is took forever by 27 mins near Silk_Board. The schedule is a joke.,KA-01-AB-0101
+900497,13-11-2025 17:37,Driver of KA-01-AB-0103 was not helpful when asked for the stop. Unprofessional behavior.,
+900498,13-11-2025 08:22,Checked the app 3 times. Still no real-time update for Route R5A. Makes the whole system unreliable.,KA-01-AB-0103
+900499,13-11-2025 13:53,Route R12B is took forever by 43 mins near MG_Road. The schedule is a joke. \@Official,
